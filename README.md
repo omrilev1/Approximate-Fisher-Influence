@@ -1,6 +1,6 @@
 # Code for The Approximate Fisher Influence Function: Faster Estimation of Data Influence in Statistical Models
 
-This folder contains the code used to generate the figures in "The Approximate Fisher Influence Function: Faster Estimation of Data Influence in Statistical Models" by Omri Lev and Ashia Wilson.
+This folder contains the code used to generate the figures in "The Approximate Fisher Influence Function: Faster Estimation of Data Influence in Statistical Models".
 
 ## Figure 1
 
