@@ -1,4 +1,4 @@
-# Code for The Approximate Fisher Influence Function: Faster Estimation of Data Influence in Statistical Models
+# Code for the paper: "The Approximate Fisher Influence Function: Faster Estimation of Data Influence in Statistical Models"
 
 This folder contains the code used to generate the figures in "The Approximate Fisher Influence Function: Faster Estimation of Data Influence in Statistical Models".
 
